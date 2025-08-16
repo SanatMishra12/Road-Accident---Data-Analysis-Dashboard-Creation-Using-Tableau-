@@ -27,7 +27,7 @@ Dashboard Interaction :
 
 Dashboard : 
 
-<a href="<img width="1580" height="889" alt="Screenshot 2025-08-16 190750" src="https://github.com/user-attachments/assets/23d33fcf-21e9-412f-8b36-3c24e9ff8492" />
+"<img width="1580" height="889" alt="Screenshot 2025-08-16 190750" src="https://github.com/user-attachments/assets/23d33fcf-21e9-412f-8b36-3c24e9ff8492" 
 
 
 Project Insight : 
